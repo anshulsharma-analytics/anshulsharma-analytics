@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Anshul 👋
 
-<!--
-**anshulsharma-analytics/anshulsharma-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Data Analyst | Turning Complex Data into Strategic Insights**
 
-Here are some ideas to get you started:
+I specialize in extracting, cleaning, and analyzing datasets to uncover actionable business insights and build intuitive visualizations. Passionate about data storytelling, statistical analysis, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, R
+- **Data Visualization & BI:** Power BI, Tableau, Excel (Advanced, Pivot Tables, Power Query)
+- **Databases:** PostgreSQL, MySQL
+- **Tools & Environments:** Git, GitHub, VS Code
+
+---
+
+## 🚀 Featured Projects
+
+- 📈 **[Blinkit Sales Analysis Dashboard](https://github.com/anshulsharma-analytics/your-repo-name)**  
+  *Interactive Power BI dashboard providing actionable insights into Blinkit's sales performance, customer satisfaction, and inventory distribution.*  
+  * **Key Features:** KPI Cards (Total Sales, Avg Rating, Total Items), Interactive Slicers (Outlet Size, Location, Item Type), Donut & Stacked Bar Charts for categorical breakdown.  
+  `Power BI` • `DAX` • `Data Visualization`
+
+---
+
+## 📫 Connect with Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/i-amsharma](https://linkedin.com)
+- ✉️ **Email:** anshulans1234@gmail.com
+
+---
+
