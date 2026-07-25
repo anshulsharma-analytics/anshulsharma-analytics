@@ -8,7 +8,7 @@ I specialize in extracting, cleaning, and analyzing datasets to uncover actionab
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, R
+- **Languages:** SQL, Python (Pandas, NumPy)
 - **Data Visualization & BI:** Power BI, Tableau, Excel (Advanced, Pivot Tables, Power Query)
 - **Databases:** PostgreSQL, MySQL
 - **Tools & Environments:** Git, GitHub, VS Code
@@ -24,6 +24,13 @@ I specialize in extracting, cleaning, and analyzing datasets to uncover actionab
 
 ---
 
+## 📜 Certifications & Credentials
+
+- 🥇 **[AZ-900](https://your-certificate-link-here)** – *Microsoft* 
+- 🥈 **[PL-300.](https://your-certificate-link-here)** – *Microsoft* on going
+
+---
+  
 ## 📫 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/i-amsharma](https://linkedin.com)
