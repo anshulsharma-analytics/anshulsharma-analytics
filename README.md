@@ -26,6 +26,11 @@ Average Claim Amount: $5,000 ($5.00K)
 Demographic Breakdown: 18.7K Male | 18.8K Female.
   `Power BI` • `DAX` • `Data Visualization`
 
+- 💳 **[Bank Loan Credit Risk & Portfolio Analysis Dashboard](https://github.com/anshulsharma-analytics/Bank-credit-risk-analysis)**  
+* Interactive 3-page Power BI dashboard providing end-to-end evaluation of bank lending performance, portfolio growth, and credit risk. By analyzing key indicators across loan statuses, borrower demographics, terms, and purposes, this tool enables credit risk analysts, portfolio managers, and underwriters to monitor portfolio health, track MoM growth, separate good vs. bad loans, and perform transaction-level audits.
+* **Key Features:** Total Applications: 39K | Total Funded Amount: $435.8M | Total Received Amount: $473.1M | Avg Interest Rate: 12.0% | Avg DTI Ratio: 13.3% | Portfolio Segmentation: 33K Good Loans ($370.2M) vs. 5K Bad Loans ($65.5M) | Interactive Views: Executive Summary, Visual Overview, and Detailed Audit Grid.  
+`Power BI` • `DAX` • `Data Visualization` • `Financial Risk Analysis`
+
 ---
 
 ## 📜 Certifications & Credentials
